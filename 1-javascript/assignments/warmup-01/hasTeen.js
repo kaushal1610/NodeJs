@@ -5,5 +5,6 @@ function hasTeen(a, b, c){
       return false;
     
   }
-  let result =  hasTeen(13,20,10);
-  console.log(result);
+
+let result =   hasTeen(13,20,10);
+console.log(result);
