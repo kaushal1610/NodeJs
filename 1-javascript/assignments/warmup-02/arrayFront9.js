@@ -8,6 +8,6 @@ function arrayFront9(nums){
    
    return false;
  }
- let result =   stringSplosion(1,2,9,3,4);
+ let result =   arrayFront9(1,2,9,3,4);
  console.log(result);
  
