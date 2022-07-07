@@ -3,5 +3,5 @@ function squirrelPlay(temp, isSummer){
    if (isSummer) max=100;
    return ( temp >= 60 && temp <= max);
  }
- let result =  dateFashion(70,false);
+ let result =  squirrelPlay(70,false);
  console.log(result);

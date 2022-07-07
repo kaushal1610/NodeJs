@@ -13,5 +13,5 @@ function caughtSpeeding(speed, isBirthday){
       else
         return 2;
   }
-  let result =  dateFashion(60,false);
+  let result =  caughtSpeeding(60,false);
   console.log(result);
