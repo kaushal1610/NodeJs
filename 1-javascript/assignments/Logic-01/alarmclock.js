@@ -12,5 +12,5 @@ function alarmClock(day, vacation){
         return "7:00";
     }
   }
-  let result =  dateFashion(1,false);
+  let result =  alarmClock(1,false);
   console.log(result);
