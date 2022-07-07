@@ -5,7 +5,7 @@ function sumDigits(str){
     for(let i = 0; i < lim; i++)
     {
         ch = str.charAt(i);
-          if(ch >= '0' && ch <= '9') // or simply 
+          if(ch >= '0' && ch <= '9')
               sum += (ch - '0');
       }
       return sum;
